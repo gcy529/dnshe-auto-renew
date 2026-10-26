@@ -1,3 +1,54 @@
 {
-  "domains": {}
+  "domains": {
+    "gcy5.cn.mt": {
+      "expires_at": "2028-04-11 18:19",
+      "renew_before_days": 175,
+      "source": "api:expires_at"
+    },
+    "gcy9.cn.mt": {
+      "expires_at": "2028-04-11 17:01",
+      "renew_before_days": 175,
+      "source": "api:expires_at"
+    },
+    "gcy7.cn.mt": {
+      "expires_at": "2028-04-11 16:50",
+      "renew_before_days": 175,
+      "source": "api:expires_at"
+    },
+    "gcy6.us.ci": {
+      "expires_at": "2028-02-14 17:33",
+      "renew_before_days": 175,
+      "source": "api:expires_at"
+    },
+    "gcy9.us.ci": {
+      "expires_at": "2028-02-14 18:26",
+      "renew_before_days": 175,
+      "source": "api:expires_at"
+    },
+    "gcy6.cn.mt": {
+      "expires_at": "2028-04-11 16:45",
+      "renew_before_days": 175,
+      "source": "api:expires_at"
+    },
+    "gcy8.cn.mt": {
+      "expires_at": "2028-04-11 16:51",
+      "renew_before_days": 175,
+      "source": "api:expires_at"
+    },
+    "gcy8.us.ci": {
+      "expires_at": "2028-02-14 18:26",
+      "renew_before_days": 175,
+      "source": "api:expires_at"
+    },
+    "gcy7.us.ci": {
+      "expires_at": "2028-02-14 18:26",
+      "renew_before_days": 175,
+      "source": "api:expires_at"
+    },
+    "gcy5.us.ci": {
+      "expires_at": "2028-02-14 17:31",
+      "renew_before_days": 175,
+      "source": "api:expires_at"
+    }
+  }
 }
